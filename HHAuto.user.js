@@ -70,7 +70,7 @@ GM_addStyle('.HHPopIDs {background-color: black;z-index: 500;position: absolute;
 GM_addStyle('.tooltipHH:hover { cursor: help; position: relative; }'
             +'.tooltipHH span.tooltipHHtext { display: none }');
 GM_addStyle('#popup_message_league { border: #666 2px dotted; padding: 5px 20px 5px 5px; display: block; z-index: 1000; background: #e3e3e3; left: 0px; margin: 15px; width: 500px; position: absolute; top: 15px; color: black}');
-GM_addStyle('#sliding-popups#sliding-popups { z-index : 1}');
+GM_addStyle('#sliding-popups#sliding-popups { z-index : 2}');
 GM_addStyle('.HHcontest { color:#d08467; font-size: 0.7rem;}');
 //END CSS Region
 
